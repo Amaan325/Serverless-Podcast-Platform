@@ -54,18 +54,4 @@ This is a serverless podcast streaming platform built with:
    - Stores podcast record in DynamoDB.
 6. Frontend Discover page lists all podcasts & plays them.
 
----
-
-## 🚀 How to Run
-
-```bash
-# 1️⃣ Start backend server
-cd backend
-npm install
-node server.js
-
-# 2️⃣ Start frontend dev server
-cd frontend
-npm install
-npm run dev
 
